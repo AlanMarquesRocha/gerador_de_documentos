@@ -1,0 +1,8 @@
+langchain
+langchain-community
+openai
+python-dotenv
+streamlit
+fpdf2
+python-docx
+requests
