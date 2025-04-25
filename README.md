@@ -14,6 +14,15 @@ Este projeto tem como objetivo automatizar a geração de documentos legais (com
 
 ---
 
+## 📚 Modelos Suportados
+
+- Contrato de prestação de serviços
+- Declaração simples
+- Procuração
+- Termo de confidencialidade (NDA)
+
+--- 
+
 ## 🧠 Tecnologias Utilizadas
 
 - Python 3.10+
