@@ -9,8 +9,8 @@ Este projeto tem como objetivo automatizar a geração de documentos legais (com
 - 📋 Formulário interativo para entrada de dados
 - ⚙️ Geração automática de documentos jurídicos com base em prompts personalizados
 - 📄 Exportação em formato `.pdf` e `.docx`
-- 🧠 Utiliza LangChain + LLM (OpenAI ou outro provedor)
-- 🌐 Interface web com Streamlit (ou FastAPI, a depender da versão)
+- 🧠 Utiliza LangChain + LLM (OpenAI)
+- 🌐 Interface web com Streamlit.
 
 ---
 
